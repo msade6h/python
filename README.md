@@ -1,5 +1,7 @@
 
-![Screenshot 2024-04-15 134613](https://github.com/msade6h/python/assets/94873023/1d523bb5-c8da-40bc-a537-6ec951e42d92)
+
+<img src="[screenshot.png](https://github.com/msade6h/python/assets/94873023/1d523bb5-c8da-40bc-a537-6ec951e42d92)" style="width: 50%; height: auto;">
+
 
 
 
